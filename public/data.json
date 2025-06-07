@@ -1,0 +1,802 @@
+{
+  "265073255928639": {
+    "manufacturer": "Samsung",
+    "serialNumber": "SN159228",
+    "model": "Galaxy S21",
+    "checkDigit": "9",
+    "tac": "26507325",
+    "status": "Valid"
+  },
+  "863949235627183": {
+    "manufacturer": "Apple",
+    "serialNumber": "SN702181",
+    "model": "iPhone 13",
+    "checkDigit": "3",
+    "tac": "86394923",
+    "status": "Valid"
+  },
+  "832209801139933": {
+    "manufacturer": "Xiaomi",
+    "serialNumber": "SN888180",
+    "model": "Redmi Note 10",
+    "checkDigit": "3",
+    "tac": "83220980",
+    "status": "Valid"
+  },
+  "966611828479408": {
+    "manufacturer": "Apple",
+    "serialNumber": "SN254697",
+    "model": "iPhone 13",
+    "checkDigit": "8",
+    "tac": "96661182",
+    "status": "Valid"
+  },
+  "649043460924209": {
+    "manufacturer": "Motorola",
+    "serialNumber": "SN896153",
+    "model": "Moto G Power",
+    "checkDigit": "9",
+    "tac": "64904346",
+    "status": "Valid"
+  },
+  "938818597112871": {
+    "manufacturer": "OnePlus",
+    "serialNumber": "SN953595",
+    "model": "OnePlus 9",
+    "checkDigit": "1",
+    "tac": "93881859",
+    "status": "Valid"
+  },
+  "399883695755544": {
+    "manufacturer": "OnePlus",
+    "serialNumber": "SN867617",
+    "model": "OnePlus 9",
+    "checkDigit": "4",
+    "tac": "39988369",
+    "status": "Valid"
+  },
+  "377273356358083": {
+    "manufacturer": "OnePlus",
+    "serialNumber": "SN667071",
+    "model": "OnePlus 9",
+    "checkDigit": "3",
+    "tac": "37727335",
+    "status": "Valid"
+  },
+  "472784281842524": {
+    "manufacturer": "LG",
+    "serialNumber": "SN444254",
+    "model": "Velvet",
+    "checkDigit": "4",
+    "tac": "47278428",
+    "status": "Valid"
+  },
+  "657556019373502": {
+    "manufacturer": "Xiaomi",
+    "serialNumber": "SN205196",
+    "model": "Redmi Note 10",
+    "checkDigit": "2",
+    "tac": "65755601",
+    "status": "Valid"
+  },
+  "871816488520912": {
+    "manufacturer": "Apple",
+    "serialNumber": "SN814326",
+    "model": "iPhone 13",
+    "checkDigit": "2",
+    "tac": "87181648",
+    "status": "Valid"
+  },
+  "695689162627970": {
+    "manufacturer": "Apple",
+    "serialNumber": "SN754396",
+    "model": "iPhone 13",
+    "checkDigit": "0",
+    "tac": "69568916",
+    "status": "Valid"
+  },
+  "163812732343190": {
+    "manufacturer": "Motorola",
+    "serialNumber": "SN172085",
+    "model": "Moto G Power",
+    "checkDigit": "0",
+    "tac": "16381273",
+    "status": "Valid"
+  },
+  "294129383516921": {
+    "manufacturer": "OnePlus",
+    "serialNumber": "SN471170",
+    "model": "OnePlus 9",
+    "checkDigit": "1",
+    "tac": "29412938",
+    "status": "Valid"
+  },
+  "823507214033770": {
+    "manufacturer": "Sony",
+    "serialNumber": "SN971875",
+    "model": "Xperia 5",
+    "checkDigit": "0",
+    "tac": "82350721",
+    "status": "Valid"
+  },
+  "214344131965802": {
+    "manufacturer": "LG",
+    "serialNumber": "SN972800",
+    "model": "Velvet",
+    "checkDigit": "2",
+    "tac": "21434413",
+    "status": "Valid"
+  },
+  "541401768146132": {
+    "manufacturer": "OnePlus",
+    "serialNumber": "SN386106",
+    "model": "OnePlus 9",
+    "checkDigit": "2",
+    "tac": "54140176",
+    "status": "Valid"
+  },
+  "772444770179550": {
+    "manufacturer": "Google",
+    "serialNumber": "SN653980",
+    "model": "Pixel 6",
+    "checkDigit": "0",
+    "tac": "77244477",
+    "status": "Valid"
+  },
+  "281934817743222": {
+    "manufacturer": "OnePlus",
+    "serialNumber": "SN763233",
+    "model": "OnePlus 9",
+    "checkDigit": "2",
+    "tac": "28193481",
+    "status": "Valid"
+  },
+  "350649228600763": {
+    "manufacturer": "Google",
+    "serialNumber": "SN540027",
+    "model": "Pixel 6",
+    "checkDigit": "3",
+    "tac": "35064922",
+    "status": "Valid"
+  },
+  "265317436314072": {
+    "manufacturer": "Huawei",
+    "serialNumber": "SN587785",
+    "model": "P30 Pro",
+    "checkDigit": "2",
+    "tac": "26531743",
+    "status": "Valid"
+  },
+  "545881196705219": {
+    "manufacturer": "LG",
+    "serialNumber": "SN981905",
+    "model": "Velvet",
+    "checkDigit": "9",
+    "tac": "54588119",
+    "status": "Valid"
+  },
+  "084172804577936": {
+    "manufacturer": "OnePlus",
+    "serialNumber": "SN998207",
+    "model": "OnePlus 9",
+    "checkDigit": "6",
+    "tac": "08417280",
+    "status": "Valid"
+  },
+  "577496256310908": {
+    "manufacturer": "Google",
+    "serialNumber": "SN764844",
+    "model": "Pixel 6",
+    "checkDigit": "8",
+    "tac": "57749625",
+    "status": "Valid"
+  },
+  "888870584949658": {
+    "manufacturer": "OnePlus",
+    "serialNumber": "SN101755",
+    "model": "OnePlus 9",
+    "checkDigit": "8",
+    "tac": "88887058",
+    "status": "Valid"
+  },
+  "384861920419174": {
+    "manufacturer": "Samsung",
+    "serialNumber": "SN716821",
+    "model": "Galaxy S21",
+    "checkDigit": "4",
+    "tac": "38486192",
+    "status": "Valid"
+  },
+  "426939658039297": {
+    "manufacturer": "Motorola",
+    "serialNumber": "SN358805",
+    "model": "Moto G Power",
+    "checkDigit": "7",
+    "tac": "42693965",
+    "status": "Valid"
+  },
+  "563136401560587": {
+    "manufacturer": "Motorola",
+    "serialNumber": "SN825471",
+    "model": "Moto G Power",
+    "checkDigit": "7",
+    "tac": "56313640",
+    "status": "Valid"
+  },
+  "788319319461531": {
+    "manufacturer": "LG",
+    "serialNumber": "SN965495",
+    "model": "Velvet",
+    "checkDigit": "1",
+    "tac": "78831931",
+    "status": "Valid"
+  },
+  "625821703662605": {
+    "manufacturer": "OnePlus",
+    "serialNumber": "SN202342",
+    "model": "OnePlus 9",
+    "checkDigit": "5",
+    "tac": "62582170",
+    "status": "Valid"
+  },
+  "635985973641645": {
+    "manufacturer": "Google",
+    "serialNumber": "SN674339",
+    "model": "Pixel 6",
+    "checkDigit": "5",
+    "tac": "63598597",
+    "status": "Valid"
+  },
+  "232609995671615": {
+    "manufacturer": "OnePlus",
+    "serialNumber": "SN258241",
+    "model": "OnePlus 9",
+    "checkDigit": "5",
+    "tac": "23260999",
+    "status": "Valid"
+  },
+  "956330246818988": {
+    "manufacturer": "Motorola",
+    "serialNumber": "SN491217",
+    "model": "Moto G Power",
+    "checkDigit": "8",
+    "tac": "95633024",
+    "status": "Valid"
+  },
+  "590400590008288": {
+    "manufacturer": "Sony",
+    "serialNumber": "SN189731",
+    "model": "Xperia 5",
+    "checkDigit": "8",
+    "tac": "59040059",
+    "status": "Valid"
+  },
+  "014263282142999": {
+    "manufacturer": "LG",
+    "serialNumber": "SN462223",
+    "model": "Velvet",
+    "checkDigit": "9",
+    "tac": "01426328",
+    "status": "Valid"
+  },
+  "807535439712431": {
+    "manufacturer": "Samsung",
+    "serialNumber": "SN482814",
+    "model": "Galaxy S21",
+    "checkDigit": "1",
+    "tac": "80753543",
+    "status": "Valid"
+  },
+  "474239097327572": {
+    "manufacturer": "Samsung",
+    "serialNumber": "SN627274",
+    "model": "Galaxy S21",
+    "checkDigit": "2",
+    "tac": "47423909",
+    "status": "Valid"
+  },
+  "193463704462321": {
+    "manufacturer": "Nokia",
+    "serialNumber": "SN341556",
+    "model": "3310",
+    "checkDigit": "1",
+    "tac": "19346370",
+    "status": "Valid"
+  },
+  "374512516411073": {
+    "manufacturer": "Nokia",
+    "serialNumber": "SN572474",
+    "model": "3310",
+    "checkDigit": "3",
+    "tac": "37451251",
+    "status": "Valid"
+  },
+  "573072352321745": {
+    "manufacturer": "Huawei",
+    "serialNumber": "SN211180",
+    "model": "P30 Pro",
+    "checkDigit": "5",
+    "tac": "57307235",
+    "status": "Valid"
+  },
+  "671555314805608": {
+    "manufacturer": "Xiaomi",
+    "serialNumber": "SN907205",
+    "model": "Redmi Note 10",
+    "checkDigit": "8",
+    "tac": "67155531",
+    "status": "Valid"
+  },
+  "804180870580808": {
+    "manufacturer": "Huawei",
+    "serialNumber": "SN580997",
+    "model": "P30 Pro",
+    "checkDigit": "8",
+    "tac": "80418087",
+    "status": "Valid"
+  },
+  "941495372295455": {
+    "manufacturer": "Samsung",
+    "serialNumber": "SN458703",
+    "model": "Galaxy S21",
+    "checkDigit": "5",
+    "tac": "94149537",
+    "status": "Valid"
+  },
+  "471694779675206": {
+    "manufacturer": "Xiaomi",
+    "serialNumber": "SN378832",
+    "model": "Redmi Note 10",
+    "checkDigit": "6",
+    "tac": "47169477",
+    "status": "Valid"
+  },
+  "183967606525235": {
+    "manufacturer": "Xiaomi",
+    "serialNumber": "SN754957",
+    "model": "Redmi Note 10",
+    "checkDigit": "5",
+    "tac": "18396760",
+    "status": "Valid"
+  },
+  "956187717751449": {
+    "manufacturer": "Xiaomi",
+    "serialNumber": "SN501014",
+    "model": "Redmi Note 10",
+    "checkDigit": "9",
+    "tac": "95618771",
+    "status": "Valid"
+  },
+  "145128405109104": {
+    "manufacturer": "Nokia",
+    "serialNumber": "SN544875",
+    "model": "3310",
+    "checkDigit": "4",
+    "tac": "14512840",
+    "status": "Valid"
+  },
+  "414128943145200": {
+    "manufacturer": "Nokia",
+    "serialNumber": "SN690321",
+    "model": "3310",
+    "checkDigit": "0",
+    "tac": "41412894",
+    "status": "Valid"
+  },
+  "437017413586766": {
+    "manufacturer": "Xiaomi",
+    "serialNumber": "SN501998",
+    "model": "Redmi Note 10",
+    "checkDigit": "6",
+    "tac": "43701741",
+    "status": "Valid"
+  },
+  "146540654191964": {
+    "manufacturer": "Huawei",
+    "serialNumber": "SN336379",
+    "model": "P30 Pro",
+    "checkDigit": "4",
+    "tac": "14654065",
+    "status": "Valid"
+  },
+  "979932437079271": {
+    "manufacturer": "Motorola",
+    "serialNumber": "SN338938",
+    "model": "Moto G Power",
+    "checkDigit": "1",
+    "tac": "97993243",
+    "status": "Valid"
+  },
+  "602389838393246": {
+    "manufacturer": "OnePlus",
+    "serialNumber": "SN558519",
+    "model": "OnePlus 9",
+    "checkDigit": "6",
+    "tac": "60238983",
+    "status": "Valid"
+  },
+  "755406960734677": {
+    "manufacturer": "Motorola",
+    "serialNumber": "SN846838",
+    "model": "Moto G Power",
+    "checkDigit": "7",
+    "tac": "75540696",
+    "status": "Valid"
+  },
+  "371402906725444": {
+    "manufacturer": "Samsung",
+    "serialNumber": "SN581388",
+    "model": "Galaxy S21",
+    "checkDigit": "4",
+    "tac": "37140290",
+    "status": "Valid"
+  },
+  "028137422371292": {
+    "manufacturer": "Sony",
+    "serialNumber": "SN481675",
+    "model": "Xperia 5",
+    "checkDigit": "2",
+    "tac": "02813742",
+    "status": "Valid"
+  },
+  "288938306270251": {
+    "manufacturer": "Nokia",
+    "serialNumber": "SN132193",
+    "model": "3310",
+    "checkDigit": "1",
+    "tac": "28893830",
+    "status": "Valid"
+  },
+  "923476424487078": {
+    "manufacturer": "Xiaomi",
+    "serialNumber": "SN468782",
+    "model": "Redmi Note 10",
+    "checkDigit": "8",
+    "tac": "92347642",
+    "status": "Valid"
+  },
+  "006103641509803": {
+    "manufacturer": "LG",
+    "serialNumber": "SN135401",
+    "model": "Velvet",
+    "checkDigit": "3",
+    "tac": "00610364",
+    "status": "Valid"
+  },
+  "348628008792151": {
+    "manufacturer": "Apple",
+    "serialNumber": "SN857580",
+    "model": "iPhone 13",
+    "checkDigit": "1",
+    "tac": "34862800",
+    "status": "Valid"
+  },
+  "399925853469937": {
+    "manufacturer": "Motorola",
+    "serialNumber": "SN803870",
+    "model": "Moto G Power",
+    "checkDigit": "7",
+    "tac": "39992585",
+    "status": "Valid"
+  },
+  "636561907371432": {
+    "manufacturer": "Sony",
+    "serialNumber": "SN550287",
+    "model": "Xperia 5",
+    "checkDigit": "2",
+    "tac": "63656190",
+    "status": "Valid"
+  },
+  "553579455633028": {
+    "manufacturer": "Xiaomi",
+    "serialNumber": "SN652498",
+    "model": "Redmi Note 10",
+    "checkDigit": "8",
+    "tac": "55357945",
+    "status": "Valid"
+  },
+  "778777820383001": {
+    "manufacturer": "Apple",
+    "serialNumber": "SN341905",
+    "model": "iPhone 13",
+    "checkDigit": "1",
+    "tac": "77877782",
+    "status": "Valid"
+  },
+  "065699606474634": {
+    "manufacturer": "OnePlus",
+    "serialNumber": "SN225591",
+    "model": "OnePlus 9",
+    "checkDigit": "4",
+    "tac": "06569960",
+    "status": "Valid"
+  },
+  "073935896923231": {
+    "manufacturer": "Apple",
+    "serialNumber": "SN391450",
+    "model": "iPhone 13",
+    "checkDigit": "1",
+    "tac": "07393589",
+    "status": "Valid"
+  },
+  "490861630582247": {
+    "manufacturer": "Motorola",
+    "serialNumber": "SN367796",
+    "model": "Moto G Power",
+    "checkDigit": "7",
+    "tac": "49086163",
+    "status": "Valid"
+  },
+  "987511974432232": {
+    "manufacturer": "Motorola",
+    "serialNumber": "SN742174",
+    "model": "Moto G Power",
+    "checkDigit": "2",
+    "tac": "98751197",
+    "status": "Valid"
+  },
+  "714249649863206": {
+    "manufacturer": "OnePlus",
+    "serialNumber": "SN290770",
+    "model": "OnePlus 9",
+    "checkDigit": "6",
+    "tac": "71424964",
+    "status": "Valid"
+  },
+  "584898120199303": {
+    "manufacturer": "Google",
+    "serialNumber": "SN946161",
+    "model": "Pixel 6",
+    "checkDigit": "3",
+    "tac": "58489812",
+    "status": "Valid"
+  },
+  "291377979904778": {
+    "manufacturer": "Motorola",
+    "serialNumber": "SN215697",
+    "model": "Moto G Power",
+    "checkDigit": "8",
+    "tac": "29137797",
+    "status": "Valid"
+  },
+  "739972610383075": {
+    "manufacturer": "Samsung",
+    "serialNumber": "SN537242",
+    "model": "Galaxy S21",
+    "checkDigit": "5",
+    "tac": "73997261",
+    "status": "Valid"
+  },
+  "120609106902623": {
+    "manufacturer": "Apple",
+    "serialNumber": "SN888511",
+    "model": "iPhone 13",
+    "checkDigit": "3",
+    "tac": "12060910",
+    "status": "Valid"
+  },
+  "787822965941988": {
+    "manufacturer": "Apple",
+    "serialNumber": "SN762038",
+    "model": "iPhone 13",
+    "checkDigit": "8",
+    "tac": "78782296",
+    "status": "Valid"
+  },
+  "484196260608402": {
+    "manufacturer": "OnePlus",
+    "serialNumber": "SN782531",
+    "model": "OnePlus 9",
+    "checkDigit": "2",
+    "tac": "48419626",
+    "status": "Valid"
+  },
+  "715474319273408": {
+    "manufacturer": "Google",
+    "serialNumber": "SN689636",
+    "model": "Pixel 6",
+    "checkDigit": "8",
+    "tac": "71547431",
+    "status": "Valid"
+  },
+  "541692302036207": {
+    "manufacturer": "Huawei",
+    "serialNumber": "SN387922",
+    "model": "P30 Pro",
+    "checkDigit": "7",
+    "tac": "54169230",
+    "status": "Valid"
+  },
+  "799276788349117": {
+    "manufacturer": "Sony",
+    "serialNumber": "SN472074",
+    "model": "Xperia 5",
+    "checkDigit": "7",
+    "tac": "79927678",
+    "status": "Valid"
+  },
+  "023700053131791": {
+    "manufacturer": "Apple",
+    "serialNumber": "SN699705",
+    "model": "iPhone 13",
+    "checkDigit": "1",
+    "tac": "02370005",
+    "status": "Valid"
+  },
+  "384603042767787": {
+    "manufacturer": "Google",
+    "serialNumber": "SN263747",
+    "model": "Pixel 6",
+    "checkDigit": "7",
+    "tac": "38460304",
+    "status": "Valid"
+  },
+  "988091920325029": {
+    "manufacturer": "Nokia",
+    "serialNumber": "SN138121",
+    "model": "3310",
+    "checkDigit": "9",
+    "tac": "98809192",
+    "status": "Valid"
+  },
+  "246947230137560": {
+    "manufacturer": "Apple",
+    "serialNumber": "SN759670",
+    "model": "iPhone 13",
+    "checkDigit": "0",
+    "tac": "24694723",
+    "status": "Valid"
+  },
+  "076072314319748": {
+    "manufacturer": "Motorola",
+    "serialNumber": "SN402591",
+    "model": "Moto G Power",
+    "checkDigit": "8",
+    "tac": "07607231",
+    "status": "Valid"
+  },
+  "722785561969885": {
+    "manufacturer": "Nokia",
+    "serialNumber": "SN657191",
+    "model": "3310",
+    "checkDigit": "5",
+    "tac": "72278556",
+    "status": "Valid"
+  },
+  "690588163584765": {
+    "manufacturer": "Xiaomi",
+    "serialNumber": "SN992308",
+    "model": "Redmi Note 10",
+    "checkDigit": "5",
+    "tac": "69058816",
+    "status": "Valid"
+  },
+  "767356769460030": {
+    "manufacturer": "Huawei",
+    "serialNumber": "SN639465",
+    "model": "P30 Pro",
+    "checkDigit": "0",
+    "tac": "76735676",
+    "status": "Valid"
+  },
+  "615690165390183": {
+    "manufacturer": "Apple",
+    "serialNumber": "SN888311",
+    "model": "iPhone 13",
+    "checkDigit": "3",
+    "tac": "61569016",
+    "status": "Valid"
+  },
+  "524729097907704": {
+    "manufacturer": "LG",
+    "serialNumber": "SN687116",
+    "model": "Velvet",
+    "checkDigit": "4",
+    "tac": "52472909",
+    "status": "Valid"
+  },
+  "369493207944143": {
+    "manufacturer": "Samsung",
+    "serialNumber": "SN376034",
+    "model": "Galaxy S21",
+    "checkDigit": "3",
+    "tac": "36949320",
+    "status": "Valid"
+  },
+  "437609609762563": {
+    "manufacturer": "OnePlus",
+    "serialNumber": "SN703793",
+    "model": "OnePlus 9",
+    "checkDigit": "3",
+    "tac": "43760960",
+    "status": "Valid"
+  },
+  "768705419499757": {
+    "manufacturer": "Motorola",
+    "serialNumber": "SN592274",
+    "model": "Moto G Power",
+    "checkDigit": "7",
+    "tac": "76870541",
+    "status": "Valid"
+  },
+  "126891851139296": {
+    "manufacturer": "Samsung",
+    "serialNumber": "SN291880",
+    "model": "Galaxy S21",
+    "checkDigit": "6",
+    "tac": "12689185",
+    "status": "Valid"
+  },
+  "413516358780928": {
+    "manufacturer": "Nokia",
+    "serialNumber": "SN234563",
+    "model": "3310",
+    "checkDigit": "8",
+    "tac": "41351635",
+    "status": "Valid"
+  },
+  "232792213714316": {
+    "manufacturer": "Huawei",
+    "serialNumber": "SN499593",
+    "model": "P30 Pro",
+    "checkDigit": "6",
+    "tac": "23279221",
+    "status": "Valid"
+  },
+  "608890497527291": {
+    "manufacturer": "Huawei",
+    "serialNumber": "SN203469",
+    "model": "P30 Pro",
+    "checkDigit": "1",
+    "tac": "60889049",
+    "status": "Valid"
+  },
+  "197048931099628": {
+    "manufacturer": "Xiaomi",
+    "serialNumber": "SN229169",
+    "model": "Redmi Note 10",
+    "checkDigit": "8",
+    "tac": "19704893",
+    "status": "Valid"
+  },
+  "748338554513797": {
+    "manufacturer": "Motorola",
+    "serialNumber": "SN659850",
+    "model": "Moto G Power",
+    "checkDigit": "7",
+    "tac": "74833855",
+    "status": "Valid"
+  },
+  "187725164208479": {
+    "manufacturer": "LG",
+    "serialNumber": "SN432314",
+    "model": "Velvet",
+    "checkDigit": "9",
+    "tac": "18772516",
+    "status": "Valid"
+  },
+  "993984079320408": {
+    "manufacturer": "Sony",
+    "serialNumber": "SN163305",
+    "model": "Xperia 5",
+    "checkDigit": "8",
+    "tac": "99398407",
+    "status": "Valid"
+  },
+  "679070791634317": {
+    "manufacturer": "OnePlus",
+    "serialNumber": "SN131157",
+    "model": "OnePlus 9",
+    "checkDigit": "7",
+    "tac": "67907079",
+    "status": "Valid"
+  },
+  "551272688259199": {
+    "manufacturer": "Xiaomi",
+    "serialNumber": "SN466715",
+    "model": "Redmi Note 10",
+    "checkDigit": "9",
+    "tac": "55127268",
+    "status": "Valid"
+  }
+}

@@ -1,0 +1,31 @@
+{% extends 'main.html' %} {% block meta %}
+<meta name="robots" content="nofollow, noindex" />
+<meta name="description" content="This is home page of Imei checker" />
+
+<title>IMEI CHECKER</title>
+
+{% endblock meta %} {% block body %}
+
+<main class="min-h-screen py-12 px-4 sm:px-6 lg:px-8 bg-gray-100 text-gray-900 dark:bg-gray-900 dark:text-gray-100">
+  <div class="max-w-4xl mx-auto">
+    <div class="text-center mb-12">
+      <h1 class="text-4xl font-bold mb-4">IMEI Checker</h1>
+      <p class="text-xl text-gray-400">Validate and get information about your device's IMEI number</p>
+    </div>
+
+    <div class="bg-gray-100 text-gray-800 dark:bg-gray-800 dark:text-gray-100 rounded-xl shadow-xl p-6 mb-8">
+      {% include "imei-form.njk" %}
+    </div>
+
+    <div id="results" class="hidden bg-gray-100 text-gray-800 dark:bg-gray-800 dark:text-gray-100 rounded-xl shadow-xl p-6 mb-8">
+      <h2 class="text-2xl font-semibold mb-6">IMEI Information</h2>
+      <div id="imeiResults" class="grid grid-cols-1 md:grid-cols-2 gap-6"></div>
+    </div>
+   <div id="historyList" class="flex flex-col space-y-4">
+  <!-- History items will be inserted here -->
+  </div>
+
+  </div>
+</main>
+
+{% endblock body %}
