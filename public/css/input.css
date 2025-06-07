@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    /* @apply bg-white  dark:bg-[#18191A]  text-slate-800 dark:text-gray-200; */
+    @apply bg-[#071418] text-[#fff];
+  }
+  p {
+    @apply text-base;
+  }
+  h3 { 
+    @apply text-xl mb-3 font-bold  sm:text-2xl mt-5;
+  }
+  h4 {
+    @apply text-lg mb-3 font-bold  sm:text-2xl mt-5;
+  }
+
+  .main_slant {
+    @apply absolute w-[200%] -left-[50%];
+  }
+  .footer ul li a:hover {
+    color: white;
+  }
+  .content ul {
+    margin-left: 1rem;
+  }
+  #toggle:checked ~ label div.toggle-dot {
+    --tw-translate-x: 0.75rem;
+  }
+}
+
+.waterDrop {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: rgba(0, 123, 255, 0.5);
+  animation: dropAnimation 0.6s ease-out;
+}
+
+@keyframes dropAnimation {
+  from {
+    transform: scale(1);
+    opacity: 1;
+  }
+  to {
+    transform: scale(4);
+    opacity: 0;
+  }
+}
+
+.dark{
+  background-color: black;
+  color: white;
+}
+
+.light{
+  background-color:  white;
+  color: black;
+}

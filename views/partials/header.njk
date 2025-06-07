@@ -1,0 +1,25 @@
+<header class="bg-gray-900 text-white shadow">
+  <div class="max-w-7xl mx-auto px-1 sm:px-4 py-4 flex items-center justify-between">
+    <!-- Logo & Site Name -->
+    <a href="/" class="flex items-center space-x-2">
+      <img src="/images/logo.jpg" alt="Logo" class="h-10 w-10 rounded-full">
+      <span class="text-lg lg:text-xl font-bold">IMEI Checker</span>
+    </a>
+
+    <nav class="flex items-center space-x-2 lg:space-x-6">
+      <a href="/" class="hover:text-gray-300">Home</a>
+      <a href="/about" class="hover:text-gray-300">About</a>
+      
+      <button 
+      onclick= "document.documentElement.classList.toggle('dark');
+      localStorage.theme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
+      document.documentElement.classList.contains('dark') ?document.getElementById('theme-text').innerHTML='☀️'  :document.getElementById('theme-text').innerHTML='🌙' ;
+    "
+    class="ml-auto p-2 rounded focus:outline-none bg-gray-800 dark:bg-gray-600"
+  >
+    <span id="theme-text" class="text-yellow-300">🌙</span>
+  </button>
+
+    </nav>
+  </div>
+</header>
