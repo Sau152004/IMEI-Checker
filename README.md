@@ -55,12 +55,12 @@ npm run dev
 🌍 Live Site on Render: 🔗 Project Links
 🗂 GitHub Repository: github.com/Sau152004/imei-checker
 
-🌍 Live Site on Render: https://your-render-app.onrender.com
-
+🌍 Live Site on Render: https://imei-checker-y4qe.onrender.com
 
 👨‍💻 Developer Information
+
 Saurabh Yadav
 🎓 3rd-year Information Technology undergraduate at ABES Engineering College, Ghaziabad
 📧 Email: ysaurabh0704@gmail.com
 📱 Phone: 📬 9793064056
-🌐 GitHub | LinkedIn
+🌐 GitHub: https://github.com/Sau152004 | LinkedIn:https://www.linkedin.com/in/saurabh-yadav-44947625b/
